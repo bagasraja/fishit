@@ -3,3 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/MajestySkie/Chloe-X/r
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MajestySkie/Chloe-X/main/Main/ChloeX"))()
+
+
+
+https://gofile.io/d/UzbLud
